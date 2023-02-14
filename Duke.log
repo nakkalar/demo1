@@ -1,9 +1,3 @@
-20221221-07:05:39.318000 000032BC - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
-20221221-07:33:51.171000 00000314 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
-20221221-07:34:30.235000 0000220C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
-20221221-08:47:26.377000 00003538 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
-20221221-10:59:53.127000 00001C94 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
-20221221-23:17:54.529000 00001204 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
 20221222-12:53:15.258000 00002BD8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
 20221222-14:09:15.933000 000041AC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
 20221222-14:21:32.659000 00002C10 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
