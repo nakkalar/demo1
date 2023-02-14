@@ -1,0 +1,140 @@
+20221221-07:05:39.318000 000032BC - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20221221-07:33:51.171000 00000314 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20221221-07:34:30.235000 0000220C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20221221-08:47:26.377000 00003538 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221221-10:59:53.127000 00001C94 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221221-23:17:54.529000 00001204 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221222-12:53:15.258000 00002BD8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221222-14:09:15.933000 000041AC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221222-14:21:32.659000 00002C10 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221222-16:56:42.826000 000033D8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221223-05:54:56.485000 00004F6C - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221223-16:55:23.905000 00000E10 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221224-05:23:53.304000 000046A8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221227-13:09:14.385000 00000768 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221227-13:09:14.670644 0000220C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20221227-13:09:14.683027 0000489C - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20221227-23:50:37.724000 00004268 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221228-02:47:00.037000 000032AC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221228-09:00:16.018000 000019D8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221228-10:59:09.436000 00002BE4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221228-23:28:38.065000 00004FC4 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221229-12:31:18.003000 000046F4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221230-02:00:38.817000 00004488 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20221231-16:02:29.952000 00004214 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221231-16:02:30.427000 0000220C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20221231-16:02:30.465307 00004EF8 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20221231-16:02:37.117000 0000537C - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20221231-16:02:55.614000 00001058 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20221231-16:02:55.662075 00002774 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20221231-20:20:52.607000 000010E4 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230101-04:12:15.396000 000054E4 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230101-16:34:24.703000 000042CC - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230102-05:06:16.721000 00001ED8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230102-11:46:13.102000 000013B8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230102-16:11:14.103000 00004AF8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230102-21:46:14.152000 00004F40 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230103-09:34:32.929000 000000E0 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230104-17:29:44.853000 00004690 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230104-18:58:52.088000 00001CB0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230104-19:08:01.588000 00002750 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230104-19:12:38.872000 00004AAC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230104-19:16:29.823000 00003954 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230105-19:27:53.215000 00003FF8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230105-20:03:00.079000 00002458 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230105-21:21:39.876000 00001CD0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230106-09:11:25.248000 00004130 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230107-23:37:32.072000 00001EC4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230107-23:37:32.124313 00003954 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230107-23:37:32.126386 00003AF0 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230107-23:37:38.162000 00003448 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230107-23:37:52.290000 00003954 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230107-23:37:58.735000 000042B0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230107-23:37:58.840933 00003EE8 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230108-11:28:35.634000 00000768 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230108-22:26:45.720000 000030EC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230108-23:05:18.622000 00000E10 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230109-00:24:57.335000 00003058 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230109-05:06:29.767000 00003884 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230109-05:36:11.518000 00000550 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230109-05:42:45.878000 00004510 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230109-07:33:31.135000 000041AC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230111-21:16:02.082000 000023E8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230111-21:16:02.123195 000041AC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230111-21:16:02.145530 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230111-21:16:02.147819 000006DC - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230111-21:16:08.508000 00002010 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230111-21:16:22.278000 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230111-21:16:28.518000 000026B0 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230111-21:16:34.752000 00004A60 - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230112-05:27:34.092000 0000416C - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230115-20:24:59.113000 00000430 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230115-20:24:59.283630 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230115-20:24:59.287754 00000E9C - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230115-20:25:05.644000 00004D9C - ERROR: Couldn't connect to routers 136.243.104.242:443,80,8080|136.243.104.235:443,80,8080|136.243.18.81:443,80,8080|
+20230115-20:38:29.774000 00004FB4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230115-21:07:48.726000 000023E8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230115-22:29:14.564000 00002C84 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230115-23:12:24.232000 00004A70 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230116-05:40:31.364000 00003D74 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230119-12:12:06.102000 0000291C - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:12:06.179555 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230119-12:12:06.181372 00001AC0 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230119-12:12:12.464000 000006B8 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230119-12:32:02.038000 00003108 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230119-12:40:15.823000 0000486C - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:43:51.585000 000027BC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:45:45.962000 00002144 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:49:48.133000 000031F0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:50:44.961000 00000998 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-12:50:45.148000 00001A58 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230119-12:52:39.032000 000043C0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-13:32:53.144000 00002980 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230119-22:16:27.746000 000020D8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230125-11:51:01.081000 000016D0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-11:51:01.148308 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230125-11:51:01.169037 0000154C - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:07.626000 000004FC - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:13.870000 00003B24 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:19.870000 000049A4 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:33.215000 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230125-11:51:33.216637 00004550 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:39.433000 000021E4 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:45.619000 00001F84 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:51:51.950000 00004354 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:52:05.288000 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230125-11:52:05.289316 0000023C - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:52:11.346000 0000320C - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-11:52:17.326000 00000878 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-12:42:01.486000 00000408 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230125-12:44:23.187000 00004410 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-12:52:14.674000 000028E0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-12:52:50.189000 00006664 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-12:53:04.491000 00006014 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-12:53:41.978000 000065F4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230125-12:53:42.045000 00006604 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-23:42:05.715000 0000384C - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230125-23:42:05.720638 00003E2C - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230125-23:42:05.865412 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230205-14:10:17.547000 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230205-14:10:20.978000 000018E0 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230206-01:19:08.270000 00006588 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230206-19:48:43.855000 000038C4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230207-05:45:01.500000 00004588 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230210-07:25:27.514000 0000057C - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230210-07:25:28.018000 000041AC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230210-07:25:28.028186 00003550 - ERROR: Couldn't connect to routers 136.243.104.235:443,80,8080|
+20230210-18:14:03.756000 000007F8 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230211-11:31:26.135000 00006108 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230211-12:33:20.402000 000005BC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230211-12:33:22.504000 000005BC - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230211-23:33:21.292000 0000074C - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20230211-23:33:23.412000 0000074C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20230212-11:57:40.673000 00002F40 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230212-15:00:41.788000 00004274 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230212-20:36:51.012000 000046A4 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230212-22:26:34.829000 0000100C - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230213-10:35:26.499000 00001AF0 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
+20230213-15:49:46.900000 00004124 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230213-16:26:01.205000 000022BC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20230213-19:03:15.258000 00001E24 - ERROR: ERROR 10054 -1 in TransportTCP1::SendFromQueue()#1 in TrClient::Run()#239
